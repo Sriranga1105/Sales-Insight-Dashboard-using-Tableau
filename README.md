@@ -55,6 +55,6 @@ and success criteria  of our project.
 ![image](https://github.com/user-attachments/assets/9a809990-791b-4e65-a9ea-c5b95d0145d6)
 
 ## Guide
-step - 1: Create a new file in Tableau
-Step - 2: Choose textfile and microsoft excel to upload dataset. (upload from dataset folder)
-Step - 3: Open Sales Insight.twb
+1. Step - 1: Create a new file in Tableau
+2. Step - 2: Choose textfile and microsoft excel to upload dataset. (upload from dataset folder)
+3. Step - 3: Open Sales Insight.twb
